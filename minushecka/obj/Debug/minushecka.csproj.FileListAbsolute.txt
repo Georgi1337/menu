@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\minushecka\minushecka\bin\Debug\minushecka.exe.config
+C:\Users\admin\source\repos\minushecka\minushecka\bin\Debug\minushecka.exe
+C:\Users\admin\source\repos\minushecka\minushecka\bin\Debug\minushecka.pdb
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\minushecka.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\minushecka_MarkupCompile.cache
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\minushecka_MarkupCompile.lref
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\minushecka.g.resources
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\minushecka.Properties.Resources.resources
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\minushecka.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\minushecka.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\minushecka.exe
+C:\Users\admin\source\repos\minushecka\minushecka\obj\Debug\minushecka.pdb

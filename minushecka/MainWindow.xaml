@@ -7,6 +7,22 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Menu>
+            <MenuItem x:Name="meIt1" Header="Менялка цвета" Click="meIt1_Click" MouseEnter="Это MenuItem"/>
+            <MenuItem x:Name="meIt2" Header="Легенда о творце" Click="meIt2_Click"/>
+            <MenuItem x:Name="meIt3" Header="Закройся" Click="meIt3_Click"/>
+            <ToolBar Height="62" Width="397">
+                <Button x:Name="tol1" Height="57" Width="122" Click="tol1_Click">
+                    <Image Source="C:\Users\admin\source\repos\minushecka\minushecka\1200x630bb.png"></Image>
+                </Button>
+                <Button x:Name="tol2" Height="57" Width="122" Click="tol2_Click">
+                    <Image Source="C:\Users\admin\Downloads\image for WPF\72-724650_icon.png"></Image>
+                </Button>
+                <Button x:Name="tol3" Height="57" Width="122" Click="tol3_Click">
+                    <Image Source="C:\Users\admin\Downloads\image for WPF\aga.jpg"></Image>
+                </Button>
+            </ToolBar>
+        </Menu>
+
     </Grid>
 </Window>
