@@ -23,6 +23,7 @@ namespace minushecka
         public MainWindow()
         {
             InitializeComponent();
+            
         }
 
         private void meIt1_Click(object sender, RoutedEventArgs e)
@@ -53,6 +54,17 @@ namespace minushecka
         private void tol3_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
+        }
+
+        private void meIt1_MouseEnter(object sender, MouseEventArgs e)
+        {
+            menutext.Text = "Это элемент Menu";
+
+        }
+
+        private void tol1_MouseEnter(object sender, MouseEventArgs e)
+        {
+            tooltext.Text = "Это элемент ToolBar";
         }
     }
 }
